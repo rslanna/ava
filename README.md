@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## Uso
 
-1. Execute o arquivo `main.py`:
+1. Execute o arquivo `ava.py`:
 
 2. Use a interface gráfica para fazer perguntas ao Assistente Pessoal Ava.
 
